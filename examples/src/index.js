@@ -1,8 +1,8 @@
 import React, { Component, Fragment } from 'react'
 import { render } from 'react-dom'
 import { VirtualTable } from '../../src'
-import { Pagination } from 'antd'
-import 'antd/dist/antd.css'
+import { Pagination } from 'asp-antd-compatible'
+import 'asp-antd-compatible/dist/antd.css'
 
 const columns = [
   {

@@ -1,5 +1,5 @@
 {
-  "name": "ant-virtual-table",
+  "name": "ant-virtual-table-asp",
   "version": "0.1.11",
   "description": "",
   "main": "dist/index.js",
@@ -66,7 +66,7 @@
     "webpack-dev-server": "3.1.10"
   },
   "dependencies": {
-    "antd": "^3.26.2",
+    "asp-antd-compatible": "3.26.21",
     "enzyme": "^3.1.0",
     "enzyme-adapter-react-16": "^1.0.2",
     "lodash.throttle": "^4.1.1",

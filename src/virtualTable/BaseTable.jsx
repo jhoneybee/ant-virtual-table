@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import Table from 'antd/es/table';
+import Table from 'asp-antd-compatible/es/table';
 
 class BaseTable extends PureComponent {
   constructor(props) {
